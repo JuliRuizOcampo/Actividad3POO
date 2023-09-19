@@ -8,14 +8,12 @@ Parte 1: Esta parte consta de 8 ejercicios en java los cuales deber ser realizad
 interfaz gráfica y creación de clases, métodos y atributos.
 Realizar los siguientes ejercicios del libro Lógica de Programación de Efraín Oviedo.
 Igualmente, el libro se encuentra en la biblioteca de la universidad.
-http://uneweb.com/tutoriales/Diplomado%20Programacion%20Web/LOGICA/Logica-deProgramacion-Efrain-Oviedo.pdf
 Capítulo 3: Estructura secuencial
 • Ejercicios propuestos: 18,19 (2 ejercicios)
 Capítulo 4: Estructura decisión lógica
 • Ejercicios resueltos: 7,10 (2 ejercicios)
 • Ejercicios propuestos: 22, 23, 40,41 (4 ejercicios)
 Parte 2: Esta parte consta de 2 ejercicios (aplicación con interfaz gráfica y diagrama de
-clases en StarUML https://staruml.io/)
 Realizar el siguiente ejercicio “clases sobre figuras geométricas” del libro Ejercicios de
 programación orientada a objetos con Java y UML de Leonardo Bermón Angarita
 Páginas 87-95 llamado Enunciado: clases sobre figuras geométricas
